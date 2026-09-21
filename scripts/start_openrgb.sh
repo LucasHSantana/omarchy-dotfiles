@@ -2,5 +2,5 @@
 
 # Verificar se o openrgb já possui um processo ativo
 if ! pgrep -x "openrgb" > /dev/null; then
-  openrgb --server --startminimized
+  openrgb --startminimized --profile Perfil1
 fi

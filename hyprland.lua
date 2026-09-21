@@ -27,4 +27,4 @@ require("default.hypr.toggles")
 
 -- Add any other personal Hyprland configuration below.
 -- o.window("qemu", { workspace = "5" })
-hl.exec_cmd("scripts/start_openrgb.sh")
+-- hl.exec_cmd("scripts/start_openrgb.sh")
